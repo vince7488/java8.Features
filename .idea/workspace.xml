@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ed60fbc-cb14-4d55-bc21-f2f780b266e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zll3RS6dfBqD6sGx1CUspNaXHj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.Vernard.JavaTest02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.IntermediaryFinal">
+    <configuration name="ChainConsumers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.ChainConsumers" />
+      <module name="testJava02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileFiltering" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.FileFiltering" />
+      <module name="testJava02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntermediaryFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.IntermediaryFinal" />
+      <module name="testJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.Vernard.JavaTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.PredicateStreams" />
+      <module name="testJava02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.Vernard.JavaTest02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.RunnableTest" />
+      <module name="testJava02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.Vernard.JavaTest02.StringCount" />
+      <module name="testJava02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StringCount" />
+      <module name="testJava02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntermediaryFinal" />
+        <item itemvalue="Application.PredicateStreams" />
+        <item itemvalue="Application.ChainConsumers" />
+        <item itemvalue="Application.StringCount" />
+        <item itemvalue="Application.RunnableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed60fbc-cb14-4d55-bc21-f2f780b266e2" name="Default Changelist" comment="" />
+      <created>1585421362097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585421362097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="121" width="739" height="808" key="#FileFilter" timestamp="1585864322673">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="599" y="121" width="739" height="808" key="#FileFilter/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585864322673" />
+    <state x="599" y="121" width="739" height="808" key="#Main" timestamp="1585864284299">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="599" y="121" width="739" height="808" key="#Main/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585864284299" />
+    <state x="452" y="100" key="#Notifications" timestamp="1585728872189">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="100" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585728872189" />
+    <state x="452" y="100" key="#Project_Structure" timestamp="1585729391675">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="452" y="100" key="#Project_Structure/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585729391675" />
+    <state x="599" y="106" key="#StringCount_(1)" timestamp="1585728983674">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="599" y="106" key="#StringCount_(1)/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585728983674" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585728679526">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585728679526" />
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1585425721770">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="721" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585425721770" />
+    <state x="628" y="255" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585893555426">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="628" y="255" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585893555426" />
+    <state x="732" y="144" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1585725373061">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="732" y="144" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585725373061" />
+    <state x="640" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585864405351">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585864405351" />
+    <state x="696" y="390" width="528" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585893561137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="696" y="390" width="528" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585893561137" />
+    <state x="665" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585725964753">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="665" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585725964753" />
+    <state width="1869" height="272" key="GridCell.Tab.0.bottom" timestamp="1586038398506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586038398506" />
+    <state width="1869" height="272" key="GridCell.Tab.0.center" timestamp="1586038398506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="272" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586038398506" />
+    <state width="1869" height="272" key="GridCell.Tab.0.left" timestamp="1586038398506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="272" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586038398506" />
+    <state width="1869" height="272" key="GridCell.Tab.0.right" timestamp="1586038398506">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1869" height="272" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586038398506" />
+    <state x="337" y="83" key="SettingsEditor" timestamp="1585729537437">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="337" y="83" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1585729537437" />
+    <state x="566" y="307" key="com.intellij.ide.util.TipDialog" timestamp="1586037132808">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="566" y="307" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1586037132808" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testJava02$StringCount__1_.ic" NAME="StringCount (1) Coverage Results" MODIFIED="1585728843771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
