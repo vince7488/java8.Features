@@ -13,11 +13,11 @@ public class ChainConsumers {
         List <String> result = new ArrayList<>();
 
         //Consumer<String> c1 = s -> System.out.println(s); // let's prefer the method below
-        Consumer<String> c1 = System.out::println;
-        Consumer<String> c2 = result::add;
+        Consumer<String> c1 = System.out::println; // First Consumer stores a "Print" of all contents in Arrays.asList
+        Consumer<String> c2 = result::add; //second Consumer adds the number of entities om the array
 
         strings.forEach(c1.andThen(c2));
-        System.out.println("Size: " + result.size());
+        System.out.println("Size: " + result.size()); //display the result value from Consumer c2
     }
 
 }
