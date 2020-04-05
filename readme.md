@@ -25,3 +25,4 @@ https://github.com/vince7488/java8.Features.git
 * **Mapping and FlatMapping** (`FlatMap01.java`)
 
 ### [Reducers]
+* **Reducers basics** (`SimpleReduce.java`)
